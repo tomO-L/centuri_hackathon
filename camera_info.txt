@@ -31,5 +31,5 @@ Frame Rate:             25 fps
 W.B (Red):
 W.B (Blue):
 Power:
-Temperature: 30.2 °C
+Temperature:            30.2 °C
 
